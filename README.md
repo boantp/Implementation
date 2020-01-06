@@ -1,2 +1,2 @@
 # Implementation
-Coding, Deployment, Architecture, Engineering best practices
+Coding, Integration, Deployment, Architecture, Engineering best practices
